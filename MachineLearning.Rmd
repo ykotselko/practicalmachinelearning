@@ -1,5 +1,5 @@
 ---
-title: "Prediction the manner of people doing the excercise."
+title: "Prediction the manner of people doing the exercise."
 author: "Yuriy Kotselko"
 date: "05 October 2017"
 output:
@@ -132,7 +132,6 @@ pred_final
 
 #Annex 1
 
-As a result varImp output, we can see that variables roll_belt, pitch_forearm and yaw_belt have the highest importance. Let's plot 
 ```{r data_plot_1}
 
 plot(modrfTrain)

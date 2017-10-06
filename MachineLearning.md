@@ -1,4 +1,4 @@
-# Prediction the manner of people doing the excercise.
+# Prediction the manner of people doing the exercise.
 Yuriy Kotselko  
 05 October 2017  
 
@@ -205,6 +205,7 @@ pred_final
 \pagebreak
 
 #Annex 1
+
 
 ```r
 plot(modrfTrain)

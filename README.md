@@ -1,2 +1,3 @@
 # practicalmachinelearning
-Practical Machine Learning project
+Practical Machine Learning Course project.
+Author Yuriy Kotselko
